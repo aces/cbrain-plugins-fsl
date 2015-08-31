@@ -1,7 +1,7 @@
 
 # DEPRECATED
 
-The content of this package is deprecated; please use the combined package (cbrain-plugins-neuro)[https://github.com/aces/cbrain-plugins-neuro) instead,
+The content of this package is deprecated; please use the combined package [cbrain-plugins-neuro](https://github.com/aces/cbrain-plugins-neuro) instead,
 which include the code here as well as the plugins in `cbrain-plugins-mni` and
 `cbrain-plugins-freesurfer`.
 
